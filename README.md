@@ -1,7 +1,6 @@
-[![MasterHead](https://th.bing.com/th/id/R.6290d52a42bf0b71dcff413ca25999db?rik=q3CAU8rKjK4NYg&riu=http%3a%2f%2f31.media.tumblr.com%2ftumblr_m3z4xrHVZi1rw2jaio1_500.gif&ehk=lvvTpqDznP0Uoc%2fnElCaCE1KBqUVRcNkHoAXD9wrrWY%3d&risl=&pid=ImgRaw&r=0)](https://rishavchanda.io)
+[![MasterHead](https://lh3.googleusercontent.com/-e_dRTql2WWI/VBMNS2bgfzI/AAAAAAAAHZ4/LzN42ndcdhM/s0/Sword%2520Art%2520Online%2520Gif%2520Animado%252010.gif)](https://rishavchanda.io)
 <h3 align="center">Welcome to my Page</h3>
 
-- 🔭 I’m currently working on **Moonlight Client**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
