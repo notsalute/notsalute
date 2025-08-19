@@ -2,7 +2,7 @@
 <h1 align="center">🌟 Welcome to My Page 🌟</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" alt="Cute Dog GIF" width="200" style="border-radius: 12px;"/>
+  <img src="https://media1.tenor.com/m/wegzeaLt28YAAAAC/doggy-puppy.gif" alt="Cute Puppy GIF" width="200" style="border-radius: 12px;"/>
 </p>
 
 <!-- Social Links Section -->
