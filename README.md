@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://media1.tenor.com/m/wegzeaLt28YAAAAC/doggy-puppy.gif" width="180" style="border-radius:20px; border:3px solid white;" />
+<img src="[https://media1.tenor.com/m/wegzeaLt28YAAAAC/doggy-puppy.gif](https://i.pinimg.com/originals/0a/d7/35/0ad735f722522d9a424b2a018ff63319.gif)" width="180" style="border-radius:20px; border:3px solid white;" />
 
 # ☾ Salute ☽
 ### ` Developer • C++ `
