@@ -20,8 +20,8 @@
 
 ## 🖤 Connect With Me
 
-<a href="https://www.youtube.com/@salutedev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=youtube" height="45"/>
+<a href="https://www.youtube.com/@hatesalute" target="_blank">
+  <img src="https://skillicons.dev/icons?i=jenkins" height="45"/>
 </a>
 
 <a href="https://discord.gg/loader" target="_blank">
